@@ -1,5 +1,5 @@
 {
-  "forceUpdate": false,
+  "forceUpdate": true,
   "minVersion": 2,
   "updateTitle": "নতুন সংস্করণ উপলব্ধ",
   "updateMessage": "অ্যাপের সর্বশেষ সংস্করণ ব্যবহার করতে এখনই আপডেট করুন।",
